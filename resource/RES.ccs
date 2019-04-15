@@ -1,0 +1,32 @@
+<Solution>
+  <PropertyGroup Name="RES" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="BackGround">
+          <Image Name="player_win.png" />
+        </Folder>
+        <Folder Name="Change">
+          <Image Name="background.png" />
+          <Image Name="logo.png" />
+        </Folder>
+        <Folder Name="Default">
+          <Image Name="chx_bg.png" />
+          <Image Name="chx_img.png" />
+          <Image Name="ok_btn.png" />
+          <Image Name="return_btn.png" />
+        </Folder>
+        <Folder Name="LoginUI">
+          <Image Name="begin_login.png" />
+          <Image Name="progress.png" />
+          <Image Name="progress_bg.png" />
+          <Image Name="user_agree.png" />
+          <Image Name="wechat_login.png" />
+        </Folder>
+        <Project Name="HotFixUI.csd" Type="Layer" />
+        <Project Name="InfoUI.csd" Type="Layer" />
+        <Project Name="LoginUI.csd" Type="Layer" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

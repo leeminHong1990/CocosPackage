@@ -1,0 +1,12 @@
+
+{ 
+    "packageUrl" : "http://xs-qp.b0.upaiyun.com", 
+    "remoteManifestUrl" : "http://xs-qp.b0.upaiyun.com/res/project.manifest",
+    "remoteVersionUrl" : "http://xs-qp.b0.upaiyun.com/res/version.manifest",
+    "version" : "1.0.0", 
+    "engineVersion" : "3.12", 
+    "assets" : {
+    },
+    "searchPaths" : [ 
+    ] 
+}
